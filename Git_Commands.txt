@@ -1,0 +1,29 @@
+>>>>>>>>>>>>>>>>>Git Command<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+1) To check status of git: git status
+
+2) To initialize git : git init
+
+3) To add all files to git: git add .
+
+4) To add specific file to git: git add file-name
+
+5) To commit the files: git commit -m "Commit message"
+
+6) To check how many branches: git branch
+
+7) To create a branch from current working branch: git checkout -b branch-name
+
+8) To change branch: git checkout branch-name
+
+9) To push branch to origin use: git push -u origin branch-name
+
+10) To merge a branch into current branch: git merge branch-name
+
+11) To delete a branch: git branch -d branch-name
+
+12) To see a graph of git commits and branches: git log --oneline --graph --all --decorate
+
+13) To difference between commit use: git diff hash-of-first-commit hash-of-second-commit
+
+14)To see no of commits: git log -n no-of-commit.
