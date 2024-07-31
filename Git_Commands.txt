@@ -27,3 +27,7 @@
 13) To difference between commit use: git diff hash-of-first-commit hash-of-second-commit
 
 14)To see no of commits: git log -n no-of-commit.
+
+
+
+Hi pillu All the best BBU.
